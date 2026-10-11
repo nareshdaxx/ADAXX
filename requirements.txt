@@ -1,0 +1,5 @@
+﻿google-genai
+sounddevice
+gTTS
+playsound3
+numpy
